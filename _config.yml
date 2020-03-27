@@ -95,8 +95,8 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: 3-hexo
 theme_config: 
-  avatar: /img/avatar.jpg
-  favicon: /img/avatar.jpg
+  avatar: //cdn.jsdelivr.net/gh/mmspace/mmspace.github.io/img/avatar.jpg
+  favicon: //cdn.jsdelivr.net/gh/mmspace/mmspace.github.io/img/avatar.jpg
 
   #如果博客放置位置不是根目录，则可以通过配置此路径解决静态文件路径错误问题
   # 比如访问地址为 yelog.org/blog 那就需要配置为 blog_path: /blog 才能正常访问
@@ -178,7 +178,7 @@ theme_config:
   reward: false
   # true 开启打赏功能
 
-  searchAll: true
+  searchAll: false
   # true 启用全文搜索
   # 开启此功能需要下面操作：
   # 1. 在 hexo 根目录 执行 npm install hexo-generator-search --save 安装插件
@@ -199,7 +199,7 @@ theme_config:
   # 不蒜子网站计数设置
   # http://ibruce.info/2015/04/04/busuanzi/
   visit_counter:
-    on: true
+    on: false
     site_visit: true
     page_visit: true
 
@@ -258,7 +258,7 @@ theme_config:
   # github: github样式（灰色底，黑字）
 
   highlight:
-    on: true # true开启代码高亮
+    on: false # true开启代码高亮
     lineNum: true # true显示行号
     theme: atom-light
   # 代码高亮主题,效果可以查看 https://highlightjs.org/static/demo/
@@ -301,7 +301,7 @@ theme_config:
 
   # 友情链接
   friends:
-    叶落阁: http://yelog.org/
+    example: http://www.example.com/
 
   ##########评论设置#############
   comment:
@@ -345,10 +345,6 @@ theme_config:
     #
 
   ##############################
-
-search:
-  path: search.xml
-  field: post
 
 # Extensions
 ## Plugins: http://hexo.io/plugins/
