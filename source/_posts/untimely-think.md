@@ -29,7 +29,7 @@ original_url: https://mp.weixin.qq.com/s?__biz=MzAwMTk1MTUxNA==&mid=2247483708&i
 
 ![](1585484686-72eb87b0f76327faaf72214318275799.webp)
 
-**编者按**
+# **编者按**
 
 ![](1585484686-9a1637c01766d4a20ccf6d73b27fcdbe.webp)
 
@@ -41,7 +41,7 @@ original_url: https://mp.weixin.qq.com/s?__biz=MzAwMTk1MTUxNA==&mid=2247483708&i
 
 ![](1585484686-72eb87b0f76327faaf72214318275799.webp)
 
-**不合时宜的思考（1）**
+# **不合时宜的思考（1）**
 
 **杜骏飞**
 
@@ -239,7 +239,7 @@ original_url: https://mp.weixin.qq.com/s?__biz=MzAwMTk1MTUxNA==&mid=2247483708&i
 
 ![](1585484686-72eb87b0f76327faaf72214318275799.webp)
 
-**读者留言**
+## **读者留言**
 
 **杜骏飞：**谢谢大家的讨论。额度已满，但所有留言、信息，无论褒贬，我都看了。《不合时宜》，会继续写下去。
 
@@ -481,7 +481,7 @@ original_url: https://mp.weixin.qq.com/s?__biz=MzAwMTk1MTUxNA==&mid=2247483708&i
 
 ![](1585484686-72eb87b0f76327faaf72214318275799.webp)
 
-**不合时宜的思考（2）**
+# **不合时宜的思考（2）**
 
 **杜骏飞**
 
@@ -617,7 +617,7 @@ original_url: https://mp.weixin.qq.com/s?__biz=MzAwMTk1MTUxNA==&mid=2247483708&i
 
 ![](1585484686-f946696549722080b0075fe3abdec9c9.gif)
 
-**读者留言**
+## **读者留言**
 
 **东经119°：**他说的是，“只要”。
 
@@ -731,7 +731,7 @@ original_url: https://mp.weixin.qq.com/s?__biz=MzAwMTk1MTUxNA==&mid=2247483708&i
 
 ![](1585484686-f946696549722080b0075fe3abdec9c9.gif)
 
-**不合时宜的思考（3）**
+# **不合时宜的思考（3）**
 
 **杜骏飞**
 
@@ -837,7 +837,7 @@ original_url: https://mp.weixin.qq.com/s?__biz=MzAwMTk1MTUxNA==&mid=2247483708&i
 
 ![](1585484686-f946696549722080b0075fe3abdec9c9.gif)
 
-**读者留言**
+## **读者留言**
 
 **杜骏飞：**大家的对话素质很高，讨论也很好。又是新的一天。
 
@@ -989,7 +989,7 @@ original_url: https://mp.weixin.qq.com/s?__biz=MzAwMTk1MTUxNA==&mid=2247483708&i
 
 ![](1585484686-f946696549722080b0075fe3abdec9c9.gif)
 
-**跋：我们终将不合时宜**
+# **跋：我们终将不合时宜**
 
 **杜骏飞**
 
