@@ -352,6 +352,7 @@ theme_config:
 #RSS订阅
 plugin:
 - hexo-generator-feed
+- hexo-generator-sitemap
 #Feed Atom
 feed:
 type: atom
