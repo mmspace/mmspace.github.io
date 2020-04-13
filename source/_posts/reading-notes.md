@@ -6,7 +6,7 @@ categories:
 - 思考
 tags: 
 - 新冠肺炎
-data: 2020-03-29 20:26:31
+date: 2020-03-29 20:26:31
 original_url: https://mp.weixin.qq.com/s?__biz=MzAwMTk1MTUxNA==&mid=2247483716&idx=1&sn=420a5363a5f928e98850053f0f4daf87&scene=21#wechat_redirect
 ---
 
