@@ -3,7 +3,7 @@ title: ｛修订纪念版｝杜骏飞：札记（1-5）
 comments: true
 author: 杜骏飞
 categories:
-- 思考
+- 思考 & 评论
 tags: 
 - 新冠肺炎
 date: 2020-03-29 20:26:31
