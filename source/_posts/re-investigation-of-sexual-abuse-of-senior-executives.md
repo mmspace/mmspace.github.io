@@ -9,7 +9,7 @@ date: 2020-04-11 20:54:32
 original_url: https://mp.weixin.qq.com/s/s8wR6PWreFRHJNLpiXa7Hw
 ---
 
-![](re-investigation-of-sexual-abuse-of-senior-executives/1586868872-64b325929b45a67c9aa97083f0d1798e.webp)
+![](1586868872-64b325929b45a67c9aa97083f0d1798e.webp)
 
 近日，南风窗、澎湃新闻、新京报等多家媒体报道，原杰瑞副总裁鲍毓明涉入性侵案，对方是他的“未成年养女”李星星。报道引起了各界重视。
 
@@ -27,7 +27,7 @@ original_url: https://mp.weixin.qq.com/s/s8wR6PWreFRHJNLpiXa7Hw
 
 尘埃还未落定。截至目前，双方互相指责对方，对事件的细节有不同描述。总体上看，这是个超乎想象的事件，不仅在于事情的复杂性，还在于那常人无法理解、也很难获得谅解的特殊关系。
 
-![](re-investigation-of-sexual-abuse-of-senior-executives/1586868872-ab42177302aae0e6c516a81885d29fd0.png)
+![](1586868872-ab42177302aae0e6c516a81885d29fd0.png)
 
 # 美籍高管求“收养孩子”
 
@@ -41,7 +41,7 @@ original_url: https://mp.weixin.qq.com/s/s8wR6PWreFRHJNLpiXa7Hw
 
 2015年4月，李星星母亲经人介绍，认识了鲍毓明。李星星母亲回忆，那时，鲍毓明说自己想要个孩子，过不久，他又说想和李星星母女“组成家庭”。
 
-![](re-investigation-of-sexual-abuse-of-senior-executives/1586868872-09e84961e34b4629133fb0c1235d6f73.webp)
+![](1586868872-09e84961e34b4629133fb0c1235d6f73.webp)
 
 新京报报道截图
 
@@ -63,7 +63,7 @@ original_url: https://mp.weixin.qq.com/s/s8wR6PWreFRHJNLpiXa7Hw
 
 事实上，事情的起因还要更早。根据QQ号码，南风窗记者搜索到2条鲍毓明发布的【诚心收养孩子】的帖子，发布时间是2015年2月8日凌晨，其中写道：“高知家庭高学历海归，大型跨国公司高管，收入丰厚稳定，身体健康无不良嗜好，现诚心收养，谢谢！”在回帖中，他留下了他的QQ号。
 
-![](re-investigation-of-sexual-abuse-of-senior-executives/1586868872-38b0e95a01d3d55cd8f8dd5a1f8fb8dd.webp)
+![](1586868872-38b0e95a01d3d55cd8f8dd5a1f8fb8dd.webp)
 
 “高知家庭高学历海归”是真的，财新的报道披露，鲍毓明是天津人，1972 年出生于一个知识分子家庭。从天津大学硕士毕业后，他赴美留学，在美国纽约与加州工作近10年，取得了美国国籍和中美两国律师执业资格。
 
@@ -81,7 +81,7 @@ original_url: https://mp.weixin.qq.com/s/s8wR6PWreFRHJNLpiXa7Hw
 
 鲍毓明还强调说，他们主要是在QQ上聊天，而见面的次数和时间很少，“可能几个月见一次面，短了两三天，长了三四天、四五天，然后就分开。最长的一次，两人待在一起一个月”。
 
-![](re-investigation-of-sexual-abuse-of-senior-executives/1586868872-b63aeaeb126bc26ba74e131ef7beec68.png)
+![](1586868872-b63aeaeb126bc26ba74e131ef7beec68.png)
 
 他以此表示，李星星一直是自由的。
 
@@ -95,7 +95,7 @@ original_url: https://mp.weixin.qq.com/s/s8wR6PWreFRHJNLpiXa7Hw
 
 “要不有聊天记录，要不有电话录音，要不有视频监控”，他说，他可以证明，两人的生活是美好的。他表示，自己已将证据交给了警方。
 
-![](re-investigation-of-sexual-abuse-of-senior-executives/1586868872-3efc84b93071b12e73d9009d98c0d74a.webp)
+![](1586868872-3efc84b93071b12e73d9009d98c0d74a.webp)
 
 # 不同寻常的“关系”
 
@@ -111,7 +111,7 @@ original_url: https://mp.weixin.qq.com/s/s8wR6PWreFRHJNLpiXa7Hw
 
 “我白天要上班，她手里有钥匙、房卡，她自己一高兴，自己下楼去海边玩，去图书馆看书，我还去接她。这都是有交流证据的”，鲍毓明说。
 
-![](re-investigation-of-sexual-abuse-of-senior-executives/1586868872-e12eeba55463f9c84d9706b50f7e2943.webp)
+![](1586868872-e12eeba55463f9c84d9706b50f7e2943.webp)
 
 鲍毓明在烟台的公寓
 
@@ -151,7 +151,7 @@ original_url: https://mp.weixin.qq.com/s/s8wR6PWreFRHJNLpiXa7Hw
 
 李莹也有类似疑惑，在她帮忙期间，李星星还没成年，但李星星的母亲存在感很弱，导致了诸多不便。李莹接受《中国新闻周刊》采访时说：“她不反对让母亲参与进来，也没有阻止我们和她母亲联系。她的状态给人感觉是：母亲也决定不了什么，她可以自己决定。”
 
-![](re-investigation-of-sexual-abuse-of-senior-executives/1586868872-54edc34b1207c65fe2d14b863a0d69ee.webp)
+![](1586868872-54edc34b1207c65fe2d14b863a0d69ee.webp)
 
 新京报报道截图
 
@@ -165,7 +165,7 @@ original_url: https://mp.weixin.qq.com/s/s8wR6PWreFRHJNLpiXa7Hw
 
 这一点，4月12日有媒体报道，同时也指出其中有斯德哥尔摩综合征——受害者依赖施害者的痕迹。
 
-![](re-investigation-of-sexual-abuse-of-senior-executives/1586868872-cd63dd20e70d92606be803ca58c39f94.webp)
+![](1586868872-cd63dd20e70d92606be803ca58c39f94.webp)
 
 # 关注受害女孩的处境
 
@@ -177,7 +177,7 @@ original_url: https://mp.weixin.qq.com/s/s8wR6PWreFRHJNLpiXa7Hw
 
 多名法律人士对南风窗记者分析，两人相处了几年时间，鲍毓明可能收集了相当多的证据，来表明女孩并不是被胁迫的。又或者，他主张两人是在谈恋爱。如果成立，他或许就能避开法律风险。
 
-![](re-investigation-of-sexual-abuse-of-senior-executives/1586868872-c4f55a7d345555db7da6ef0b63149c0c.webp)
+![](1586868872-c4f55a7d345555db7da6ef0b63149c0c.webp)
 
 短片《性侵受害者讲述权力下的顺从》截图
 
@@ -197,7 +197,7 @@ original_url: https://mp.weixin.qq.com/s/s8wR6PWreFRHJNLpiXa7Hw
 
 他表示，在2017年10月，他带李星星见了父母，征得了父母的同意，“等她到了年龄就结婚”。——按鲍毓明说法，此时两人已经是“恋爱关系”。
 
-![](re-investigation-of-sexual-abuse-of-senior-executives/1586868872-89fdb1f10da26cd0712bbe9231a72395.png)
+![](1586868872-89fdb1f10da26cd0712bbe9231a72395.png)
 
 鲍毓明姐姐表示鲍毓明和女孩非养父女关系，女孩及其妈妈都曾去过鲍毓明的老家见过父母
 
