@@ -212,6 +212,10 @@ Graham在书里解释到，在满足了这四种条件时，受害者对施暴�
  > 11. Orbach, Y., & Lamb, M. E. (1999). Assessing the accuracy of a child’s account of sexual abuse: A case study. Child Abuse & Neglect, 23(1), 91-98.
  > 12. Ji, K., Finkelhor, D., & Dunne, M. (2013). Child sexual abuse in China: A meta-analysis of 27 studies. Child Abuse & Neglect, 37(9), 613-622.
 
+撰文：杨芮
+
+编辑：猫爷
+
 ![](https://mmbiz.qpic.cn/mmbiz_png/aP7vrTpXJxRA0ViaNRqia18YGj5LgX4VSib67N8A2syay8qichtFplVPnEJDsHwZwO86tbibu9O4UG5k3sC6gkNuh2w/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 ---------------------------------------------------
