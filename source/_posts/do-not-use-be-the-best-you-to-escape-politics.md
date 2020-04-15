@@ -9,9 +9,7 @@ author: 睡一号床
 original_url: https://www.assyluminexile.com/2020/02/%e8%af%84%e8%ae%ba%ef%bd%9c%e5%8b%bf%e7%94%a8%e3%80%8c%e5%81%9a%e6%9c%80%e5%a5%bd%e7%9a%84%e8%87%aa%e5%b7%b1%e3%80%8d%e6%9d%a5%e9%80%83%e9%81%bf%e6%94%bf%e6%b2%bb.html
 ---
 
-![](1584934563-c0a19b26a3f1b99db97dc545641046ae.jpg)
-
-Thomas Degeorge, Ulysse et Télémaque massacrent les prétendants de Pénélope, 1812
+![Thomas Degeorge, Ulysse et Télémaque massacrent les prétendants de Pénélope, 1812](1584934563-c0a19b26a3f1b99db97dc545641046ae.jpg)
 
 按照一般社会生活经验，每逢极富争议的重大事件发生后，总是会有人跳出来让大家「保持理性，不要被别有用心之人带了节奏」。仔细品一品这句话，不妨问问自己什么叫「保持理性」。
 
